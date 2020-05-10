@@ -7,6 +7,11 @@ The app is build on Python progrraming language and the UI/UX is developed on th
 
 In this reprositary coi file contain the data we use for pridicting the result,where as source code file  conatin the required python code.
 
+
+samples
+https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample%201.png?raw=true
+https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample2.png?raw=true
+
 Sources
 
   1.    https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
