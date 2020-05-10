@@ -10,6 +10,7 @@ In this reprositary coi file contain the data we use for pridicting the result,w
 
 samples
 https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample%201.png?raw=true
+
 https://github.com/arpit4120/recomandation-for-coronavirus-test-using-machine-learning/blob/master/sample2.png?raw=true
 
 Sources
